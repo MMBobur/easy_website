@@ -1,3 +1,32 @@
+
+.header{
+    padding: 0 13%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 90vh;
+}
+.left{
+    /* background: rgb(209, 145, 145); */
+width: 50%;
+padding-right: 5%;
+}
+.right{
+/* background: rgb(196, 122, 122); */
+width: 40%;
+margin-left: 30px;
+}
+h2{
+    margin-top: 30px;
+    font-size: 72px;
+    line-height: 1;
+}
+.tekst{
+    color: #838996;
+    margin-top: 30px;
+    font-size: 19px;
+    margin-bottom: 45px;
+
 #Stopwaiting{
     width: 100vw;
     height: 100vh;
@@ -36,4 +65,5 @@
 
 .features {
     flex: 1;
+
 }
