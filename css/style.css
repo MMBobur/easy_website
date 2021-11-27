@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.app{
+    width: 100%;
+    height: 40vh;
+    background:linear-gradient( to right ,rgb(49, 49, 243),rgb(233, 30, 155)) ;
+    padding-top: 70px;
+    
+}
+
+p{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color:#fff;
+    /* margin-top: 100px; */
+}
+
+
+.foto{
+    text-align: center;
+}
+.foto img{
+    width: 200px;
+}
