@@ -1,0 +1,21 @@
+.an{
+    margin: 0;
+    padding:50px 0;
+    width: 100%;
+    
+    background-image: linear-gradient(to right, #2b37f0, #9e1be2);
+    text-align: center;
+    color: rgb(250, 243, 243);
+}
+.an p{
+font-size: 30px;
+text-align: center;
+}
+.an h2 {
+    letter-spacing: -5px;
+  }
+
+ .an h6{
+      margin-top: 0;
+      padding: 0;
+  }
