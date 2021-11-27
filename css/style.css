@@ -1,3 +1,4 @@
+
 .an{
     margin: 0;
     padding:50px 0;
@@ -19,3 +20,155 @@ text-align: center;
       margin-top: 0;
       padding: 0;
   }
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+footer a:hover{
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: underline;
+}
+footer a {
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+}
+
+.app{
+    width: 100%;
+    height: 40vh;
+    background:linear-gradient( to right ,rgb(49, 49, 243),rgb(233, 30, 155)) ;
+    padding-top: 70px;
+    
+}
+
+p{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color:#fff;
+    /* margin-top: 100px; */
+}
+
+
+.foto{
+    text-align: center;
+}
+.foto img{
+    width: 200px;
+
+.container1 {
+    width: 100%;
+    height: 570px;
+    /* border: 1px solid red; */
+    display: inline-flex;
+    background-color: rgb(242, 242, 242);
+}
+
+.foo1{
+    width: 50%;
+    height:100% ;
+    /* border: 1px solid red; */  
+}
+
+.foo2{
+    width: 50%;
+    height:100% ;
+    /* border: 1px solid red; */
+}
+
+.foo3{
+    /* border: 1px solid red; */
+    width: 350px;
+    margin-top: 120px;
+    margin-left: 170px;
+}
+
+.p1{
+    font-size: 43px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p2{
+    font-size: 18px;
+}
+
+.foo4{
+    /* border: 1px solid red; */
+    width: 480px;
+    height: 480px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 50px;
+    margin-left: 10px;
+
+
+.header{
+    padding: 0 13%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 90vh;
+}
+.left{
+    /* background: rgb(209, 145, 145); */
+width: 50%;
+padding-right: 5%;
+}
+.right{
+/* background: rgb(196, 122, 122); */
+width: 40%;
+margin-left: 30px;
+}
+h2{
+    margin-top: 30px;
+    font-size: 72px;
+    line-height: 1;
+}
+.tekst{
+    color: #838996;
+    margin-top: 30px;
+    font-size: 19px;
+    margin-bottom: 45px;
+
+#Stopwaiting{
+    width: 100vw;
+    height: 100vh;
+    
+}
+.card-img{
+    width: 100%;
+    height: 100%;
+}
+.card-img-overlay{
+   margin-top: 15vw;
+   margin-left: 10vw;
+}
+.card-title{
+    
+    
+  font-size: 90px;
+  font-weight: 750;
+  font-family: serif;
+
+}
+#card-btn{
+    border-radius: 20px;
+    padding: 8px 20px 8px 20px;
+}
+.navibar {
+    flex-direction: row;
+    background-color: aqua;
+    width: 100%;
+    height: 150;
+}
+
+.start {
+    flex: 1;
+}
+
+.features {
+    flex: 1;
+
+}
